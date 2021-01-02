@@ -1,0 +1,14 @@
+footer {
+    margin-top: 2rem;
+    display: flex; justify-content: center; align-items: center;
+    height: 80px;
+    font-weight: 500; color: floralwhite;
+    background: darkslategray;
+}
+
+footer p {
+    margin: 0;
+}
+footer p span {
+    color: fuchsia;
+}
