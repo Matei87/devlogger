@@ -124,7 +124,11 @@
         },
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
-          "options": {}
+          "options": {
+            "baseHref": "https://matei87.github.io/devlogger/",
+            "name": "Devlogger",
+            "email": "me@me.me"
+          }
         }
       }
     }
